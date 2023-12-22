@@ -1,6 +1,6 @@
 # Code-Snippets
 
-### Exception Handling for Request Exception
+#### 1. Exception Handling for Request Exception
 ```
 except requestException as e:
     response['status_code']    = "400"
